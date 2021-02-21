@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "fb4c96d9-79de-459b-b9d1-3d61c414c50b",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": false,
+  "option_author": "KinGamesCreator",
+  "option_lastchanged": "04 December 2020 0:10:17",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}

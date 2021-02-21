@@ -1,0 +1,1 @@
+objeto = obj_delete_lvl
